@@ -26,3 +26,6 @@ sr.reveal('.main-btn',{delay:860, origin: 'left'});
 sr.reveal('.share',{delay:950, origin: 'bottom'});
 
 sr.reveal('.home-img',{delay:1000, origin: 'right'});
+
+sr.reveal('.share',{delay:1050, origin: 'left'});
+sr.reveal('.social',{delay:1090, origin: 'left'});
